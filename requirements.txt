@@ -1,0 +1,7 @@
+# Dependencias del proyecto EcoCalcWeb
+
+# Framework para crear la aplicación web
+Flask==3.0.3
+
+# Librería opcional para manejar configuraciones del proyecto
+python-dotenv==1.0.1

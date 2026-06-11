@@ -14,3 +14,9 @@
 - CSS
 - Jinja
 
+## Instalación de dependencias
+
+Para instalar las librerías necesarias del proyecto, ejecutar:
+
+```bash
+pip install -r requirements.txt
